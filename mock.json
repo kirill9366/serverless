@@ -1,0 +1,6 @@
+{
+  "body": "{\"hello\":\"world\"}",
+  "pathParameters": {
+    "title": "foo"
+  }
+}
